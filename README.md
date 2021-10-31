@@ -4,13 +4,14 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bagasnur&theme=slateorange&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bagasnur&theme=slateorange&hide_border=true&date_format=j%20M%5B%20Y%5D)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bagasnur&theme=slateorange&hide_border=true&layout=compact&card_width=445&langs_count=6) 
 
 </div>
 
 <div align="center">
 
-**I ❤ Open Source** 
+**I ❤ Open Source**
 
 </div>
 
