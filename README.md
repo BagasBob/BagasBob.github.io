@@ -12,6 +12,8 @@
 <div align="center">
 
 **I ❤ Open Source**
+  
+![Profile Views](https://komarev.com/ghpvc/?username=bagasnur&label=PROFILE+VIEWS&style=flat-square&color=orange)
 
 </div>
 
